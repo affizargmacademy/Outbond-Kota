@@ -1,3 +1,7 @@
 User-agent: *
 Allow: /
-Sitemap: https://outbondbatu.com/sitemap.xml
+Sitemap: https://outbound-tnipolri.vercel.app/sitemap.xml
+
+# SEO & AEO Optimization
+Disallow: /tmp/
+Disallow: /admin/
